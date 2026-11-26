@@ -169,11 +169,12 @@ Sesuai dengan ketentuan berkas pengumpulan pada panduan praktikum, berikut adala
 
 ---
 
-### C. Bukti Eksekusi Terminal
+### C. Bukti Eksekusi Terminal dan Push Repository
 
 | Keterangan | Tangkapan Layar |
 | :--- | :---: |
 | **Hasil Eksekusi `flutter analyze` & `flutter test`**<br>*Analisis bersih tanpa issue dan seluruh 7 test sukses.* | ![Keluaran Terminal](bukti/hasil_test_analyze.png) |
+| **Hasil Eksekusi Commit & Push ke GitHub**<br>*Bukti upload repository ke branch main GitHub.* | ![Hasil Push GitHub](bukti/hasil_push.png) |
 
 ---
 
